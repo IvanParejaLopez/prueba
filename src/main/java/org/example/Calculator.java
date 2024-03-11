@@ -12,8 +12,6 @@ public class Calculator {
             throw new IllegalArgumentException("Cannot divide by zero");
         }
         return number1 / number2;
-        guvjk
-                iyhg
-                ihlj
+        Tela de jaria morada
     }
 }
