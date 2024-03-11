@@ -12,6 +12,5 @@ public class Calculator {
             throw new IllegalArgumentException("Cannot divide by zero");
         }
         return number1 / number2;
-        Tela de jaria morada
     }
 }
